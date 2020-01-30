@@ -31,4 +31,4 @@ License
 =======
 
 Unless specified individually or those originated from other projects,
-files from this project are released under AGPL license (See COPYING).
+files from this project are released under AGPL license (See LICENSE).
